@@ -32,6 +32,9 @@ let frutas = ["Maça", "Banana", "Laranja"];
 let xícaras = {cor: "branco", material: "porcelana", peso: 100};
 
 //acessando propriedade de um objeto - só colocar o ponto
-xícaras.peso
+xícaras.peso;
+
+
+
 
 
