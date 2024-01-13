@@ -28,4 +28,5 @@ let nota2 = Number(prompt("Digite a sua segunda nota"));
 let resultado = (nota1 + nota2) / 2;
 
 alert(resultado >= 5);
+
 console.log(resultado);
